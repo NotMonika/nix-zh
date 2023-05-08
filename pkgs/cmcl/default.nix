@@ -1,4 +1,5 @@
 { stdenv 
+, fetchurl
 , makeWrapper
 , jre
 }:
